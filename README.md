@@ -17,7 +17,8 @@
 ## Данные
 
 Источник: `Top 100 Greatest Hollywood Actors of All Time.csv` 
+
 После предобработки удалены:
 - пустые строки,
-- столбцы `Date of Birth`, `Place of Birth`,
+- столбцы Date of Birth, Place of Birth,
 - строки, где хотя бы одна из наград/номинаций равна 0 (т.е. только актёры с ненулевыми показателями).
